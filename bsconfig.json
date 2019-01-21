@@ -1,5 +1,5 @@
 {
-    "name" : "bs-corser",
+    "name" : "@ryb73/bs-corser",
     "bs-dependencies": [ "bs-express" ],
     "sources" : [
         { "dir" : "src" },
