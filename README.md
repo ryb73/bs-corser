@@ -1,2 +1,2 @@
 # bs-corser
-BuckleScript bindings for corser
+Incomplete BuckleScript bindings for corser
