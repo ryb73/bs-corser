@@ -12,22 +12,23 @@
   },
   "files": [
     "/bsconfig.json",
-    "/src",
-    "/lib/js/src"
+    "/src"
   ],
   "keywords": [],
   "license": "MIT",
   "author": "Ryan Biwer",
-  "_": [],
   "repository": {
     "type": "git",
     "url": "git@github.com:ryb73/bs-corser.git"
   },
   "peerDependencies": {
-    "bs-platform": "^5.0.0"
+    "bs-platform": "^5.0.0 || ^6.0.0"
   },
   "dependencies": {
-    "bs-express": "0.12.0",
+    "bs-express": "1.0.0",
     "corser": "^2.0.1"
+  },
+  "devDependencies": {
+    "bs-platform": "^6.0.0"
   }
 }
